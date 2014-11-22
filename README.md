@@ -1,4 +1,4 @@
 morse-code-encoder
 ==================
 
-Sample morse encoder using verilog for Altera DE2 board
+Short morse encoder using verilog for Altera DE2 board
